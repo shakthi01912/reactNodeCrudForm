@@ -1,0 +1,13 @@
+.outerContainer {
+  /* background-color: blueviolet; */
+  padding: 50px;
+  border: 1px solid black;
+ 
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+
+}
+

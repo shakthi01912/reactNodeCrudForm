@@ -1,0 +1,19 @@
+.outerForm {
+  /* background-color: rgb(66, 196, 94); */
+  padding: 50px;
+  border: 1px solid black;
+}
+.formFields {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  /* background-color: blue; */
+}
+.formFields > input,
+label {
+  margin: 10px;
+}
+
+.buttonSubmit{
+    background-color: chartreuse;
+}
